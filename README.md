@@ -1,2 +1,2 @@
 # Angdroid
-React Native Coming From The Ether Project.... Coming Soon TO VHS
+React Native Coming From The Ether Project.... Coming Soon to VHS
